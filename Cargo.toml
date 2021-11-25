@@ -1,9 +1,9 @@
 [package]
 name = "tflite-dyn"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Rust bindings for TensorFlow Lite C API"
-repository = "https://gitlab.com/celphase/tflite-dyn"
+repository = "https://github.com/celphase/tflite-dyn"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
